@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/abdullah09c/qr-code-component-main.git)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://abdullah09c.github.io/qr-code-component-main/)
 
 ## My process
 
